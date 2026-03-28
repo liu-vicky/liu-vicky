@@ -1,6 +1,6 @@
 # Hello!
 
-##### My name is Vicky Liu and I am a student at Concordia University :)
+##### My name is Vicky Liu and I am a computer science student at Concordia University :)
 
 
 ## About me
