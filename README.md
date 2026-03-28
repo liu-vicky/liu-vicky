@@ -1,6 +1,7 @@
 # Hello!
 #### My name is Vicky Liu :)
 #### I am currently a computer science student at Concordia University!
+<br>
 
 ## About me
 #### 🌱 I’m currently learning more about C++!
