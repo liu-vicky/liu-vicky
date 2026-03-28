@@ -7,6 +7,7 @@
 
 ## Currently Working On
 #### Music Player: a web that lets you import your music vinyl style!
+#### Personal Portolfio: learning tailwind.css and node.js features!
 <br>
 
 ### 💻 Programming Languages 💻
