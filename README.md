@@ -6,7 +6,7 @@
 <br>
 
 ## Currently Working On
-#### Music Player: a web that lets you import your music on vinyl style!
+#### Music Player: a web that lets you import your music vinyl style!
 <br>
 
 ### 💻 Programming Languages 💻
