@@ -1,5 +1,6 @@
 # Hello!
-#### My name is Vicky Liu and I am a computer science student at Concordia University :)
+#### My name is Vicky Liu :)
+#### I am currently a computer science student at Concordia University!
 
 ## About me
 #### 🌱 I’m currently learning more about C++!<br>🤫 Fun fact: I love singing and posting covers on TikTok
