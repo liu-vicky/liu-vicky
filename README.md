@@ -1,12 +1,12 @@
 # Hello!
-##### My name is Vicky Liu and I am a computer science student at Concordia University :)
+#### My name is Vicky Liu and I am a computer science student at Concordia University :)
 
 ## About me
-##### 🌱 I’m currently learning more about C++!<br>🤫 Fun fact: I love singing and posting covers on TikTok
+#### 🌱 I’m currently learning more about C++!<br>🤫 Fun fact: I love singing and posting covers on TikTok
 <br>
 
 ## Currently Working On
-##### Music Player: a web that lets you import your music on vinyl style!
+#### Music Player: a web that lets you import your music on vinyl style!
 <br>
 
 ### 💻 Programming Languages 💻
