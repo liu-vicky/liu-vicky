@@ -4,7 +4,7 @@
 <br>
 
 ## About me
-#### 🌱 I’m currently working on a GoDot project!
+#### 🌱 I’m currently working on a website!
 #### 🤫 Fun fact: I love singing and posting covers on TikTok
 <br>
 
